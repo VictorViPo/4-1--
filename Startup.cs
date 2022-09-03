@@ -46,6 +46,7 @@ namespace CardStorageService
             app.UseEndpoints(endpoints =>
             {
                 endpoints.MapRazorPages();
+
             });
         }
     }
